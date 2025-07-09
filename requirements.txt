@@ -1,8 +1,8 @@
 streamlit
-tensorflow
-librosa
+tensorflow==2.10.0
 numpy
+librosa
+scikit-learn
 joblib
 soundfile
-scikit-learn
-matplotlib
+
